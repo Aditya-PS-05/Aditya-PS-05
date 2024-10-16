@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">Full Stack Web Developer | Blockchain Security | Smart Contract Auditor</h3>
+<h3 align="center">Student | Full Stack Web Developer | Blockchain Developer | Rust Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-ps-05&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-ps-05" /> </p>
 
 <p align="left"> <a href="https://twitter.com/adityaprat7441" target="blank"><img src="https://img.shields.io/twitter/follow/adityaprat7441?logo=twitter&style=for-the-badge" alt="adityaprat7441" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Advanced Rust**
 
-- 👯 I’m looking to collaborate on **Web3 and web2 project**
+- 👯 I’m looking to collaborate on **Web3, web2 project and Rust Projects**
 
-- 🤝 I’m looking for help with **open source contributions**
+- 🤝 I’m looking to help with **open source contributions** and searching for a **Developer** role.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya-PS-05/](https://github.com/Aditya-PS-05/)
 
