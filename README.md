@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">Student | Full Stack Web Developer | Blockchain Developer | Rust Developer</h3>
+<h3 align="center">Student | Full Stack Web Developer | Learning Blockchain and Rust</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-ps-05&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-ps-05" /> </p>
 
