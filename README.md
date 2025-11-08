@@ -6,8 +6,8 @@ I’m currently a student at NIT Trichy and have previously worked on projects r
 
 The best way to reach me is via email at [adipras1407@gmail.com](adipras1407@gmail.com).
 
-My Projects:
-[Visirs](https://github.com/Aditya-PS-05/visirs): A rust library to visually group images and videos.:
+## My Projects
+🦀[Visirs](https://github.com/Aditya-PS-05/visirs): A rust library to visually group images and videos.
 
 You can also find me on:
 
