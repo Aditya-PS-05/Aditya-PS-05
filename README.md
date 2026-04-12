@@ -4,9 +4,13 @@ I’m currently a student at NIT Trichy and a rust programmer. More about [me](h
 
 The best way to reach me is via email at [adipras1407@gmail.com](adipras1407@gmail.com).
 
+## Currently Building                                                                                                                                                                 
+- [Voxa](https://github.com/Aditya-PS-05/voxa) Cross-platform AI voice keyboard. Talk, it types — perfectly. Strips filler words, fixes punctuation, adapts tone. Flutter + Next.js + Supabase. Live at http://voxa.adityaps.work
+- [Piq](https://github.com/Aditya-PS-05/piq) Local-first bucket list app for Android. Dump things you want to try, shake your phone, do the thing. Flutter + SQLite, zero accounts, zero cloud. Live at http://piq.adityaps.work
+
 ## My Rust Projects
-- 🦀 [Visirs](https://github.com/Aditya-PS-05/visirs) A rust library to visually group images and videos.
-- 🦀 [Codesm](https://github.com/Aditya-PS-05/codesm) An AI coding agent built for terminal with Python + Rust.
+- [Visirs](https://github.com/Aditya-PS-05/visirs) A rust library to visually group images and videos.
+- [Codesm](https://github.com/Aditya-PS-05/codesm) An AI coding agent built for terminal with Python + Rust.
 
 You can also find me on:
 
