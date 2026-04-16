@@ -8,10 +8,11 @@ The best way to reach me is via email at [adipras1407@gmail.com](adipras1407@gma
 - [Voxa](https://github.com/Aditya-PS-05/voxa) Cross-platform AI voice keyboard. Talk, it types — perfectly. Strips filler words, fixes punctuation, adapts tone. Flutter + Next.js + Supabase. Live at http://voxa.adityaps.work
 
 ## My Other Projects
-- [Visirs](https://github.com/Aditya-PS-05/visirs) A rust library to visually group images and videos.
 - [Codesm](https://github.com/Aditya-PS-05/codesm) An AI coding agent built for terminal with Python.
+- [Glintly](https://github.com/Aditya-PS-05/Glintly) Glintly lets users describe an app in plain English and watch an AI agent build it in real time . Live at http://glintly.adityaps.work
+- [tryaudex](https://github.com/Aditya-PS-05/tryaudex) Scoped, short-lived AWS credentials for AI agents and automation. Wrap any command with temporary IAM permissions that auto-revoke on exit. Full audit trail, MCP integration, zero secrets on disk. . Live at http://tryaudex.adityaps.work
 - [Piq](https://github.com/Aditya-PS-05/piq) Local-first bucket list app for Android. Dump things you want to try, shake your phone, do the thing. Flutter + SQLite, zero accounts, zero cloud. Live at http://piq.adityaps.work
-- [Glintly](https://github.com/Aditya-PS-05/Glintly)  Glintly lets users describe an app in plain English and watch an AI agent build it in real time . Live at http://glintly.adityaps.work
+- [Visirs](https://github.com/Aditya-PS-05/visirs) A rust library to visually group images and videos.
 
 You can also find me on:
 
