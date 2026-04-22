@@ -1,6 +1,6 @@
 Hi, I’m [Aditya](https://adityaps.work),
 
-I’m currently a student at NIT Trichy and a rust programmer. More about [me](https://adityaps.notion.site/Aditya-Pratap-Singh-2861e9d33abd80588760fac2a22af86b).
+I’m a software engineer and currently a student at NIT Trichy and a rust programmer. I have worked as a full stack developer at Stealth AI Startup and built https://runitup.ai from scratch. More about [me](https://adityaps.notion.site/Aditya-Pratap-Singh-2861e9d33abd80588760fac2a22af86b).
 
 The best way to reach me is via email at [adipras1407@gmail.com](adipras1407@gmail.com).
 
