@@ -5,7 +5,7 @@ I’m a software engineer and currently a student at NIT Trichy and a rust progr
 The best way to reach me is via email at [adipras1407@gmail.com](adipras1407@gmail.com).
 
 ## Currently Building                                                                                                                                                                 
-- [Voxa](https://github.com/Aditya-PS-05/voxa) Cross-platform AI voice keyboard. Talk, it types — perfectly. Strips filler words, fixes punctuation, adapts tone. Flutter + Next.js + Supabase. Live at http://voxa.adityaps.work
+- [Veredic](https://github.com/Aditya-PS-05/veredic) Veredic is a security framework that applies formal verification to AI agent protocols, ensuring every interaction satisfies provable safety guarantees. It combines runtime monitoring with static analysis to detect and prevent vulnerabilities in real time with minimal performance overhead.
 
 ## My Other Projects
 - [Codesm](https://github.com/Aditya-PS-05/codesm) An AI coding agent built for terminal with Python. Live at https://codesm.adityaps.work 
